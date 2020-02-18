@@ -18,19 +18,19 @@ def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
   array = [
-    don_g => {
+    DON_G => {
       name:  "Don Gately", occupation: "Live-in Staff"
     }, 
-    joelle_vd => { 
+    JOELLE_VD => { 
       name:  "Joelle van Dyne", occupation: "Radio Personality" 
     }, 
-    pat_m => {
+    PAT_M => {
       name:  "Pat Monteseian", occupation: "Staff"
     }, 
-    kate_g => {
+    KATE_G => {
       name:  "Kate Gompert", occupation: "None"
     }, 
-    bruce_g => {
+    BRUCE_G => {
       name:  "Bruce Green", occupation: "Fan of Mildred"
     }
     ]
